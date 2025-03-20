@@ -1,2 +1,2 @@
 # Gesture-Detection
-##Basic Gesture detection python code
+### Basic Gesture detection python code
