@@ -1,2 +1,2 @@
 # Gesture-Detection
-<h1> Basic Gesture detection python code. </h1>
+<h3> Basic Gesture detection python code. </h3>
